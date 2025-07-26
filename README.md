@@ -2,7 +2,7 @@
 
 Welcome to **Snake Game**, a modern twist on the nostalgic arcade classic — built entirely with **Python + Tkinter**, and spiced up with cool **MP3 sound effects** using `playsound3`! 🍎💥
 
-![Snake Game Banner](https://github.com/Golu-Guptha/snake_game_tkinter/blob/main/game_over.png)
+![Snake Game Banner](https://github.com/Golu-Guptha/snake_game_tkinter/blob/main/play.png)
 
 ---
 
